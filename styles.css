@@ -1,0 +1,18 @@
+img {
+    width: 500px; 
+    height: 250px; 
+}
+body {
+    background: #ADEBB3;
+}
+h1 {
+    color: red;
+    font-size: 45px; 
+    text-align: center; 
+    font-family: sans-serif;
+}
+p {
+    color: red;
+    font-size: 30px;
+    text-align: center; 
+}
